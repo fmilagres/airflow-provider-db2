@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 """Perform the package airflow-provider-DB2-custom setup."""
 setup(
-    name='airflow-provider-db2-custom',
+    name='airflow-provider-db2',
     version="0.0.1",
     description='A provider package built by AIOPS IBM team',
     long_description=long_description,
